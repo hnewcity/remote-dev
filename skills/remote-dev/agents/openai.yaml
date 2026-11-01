@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remote Dev"
+  short_description: "Route builds and tests to approved SSH development hosts"
+  default_prompt: "Use $remote-dev to set up approved SSH development hosts or choose a suitable remote environment for this task."
